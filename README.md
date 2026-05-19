@@ -13,7 +13,7 @@ Lagrangian Mechanics: Derivation of motion equations using the difference betwee
 <p></p>
 Numerical Integration: Using scipy.integrate.odeint to solve non-linear second-order differential equations.
 <p></p>
-Monte Carlo Method: Understanding uncertainty by running hundreds of simulations simultaneously with randomized initial states ($\theta$ and $\omega$).
+Monte Carlo Method: Understanding uncertainty by running hundreds of simulations simultaneously with randomized initial states (theta and omega).
 <p></p>
 Data Extraction: Creating a bridge between physical experiments with digital models by tracking diode movement from video footage.
 <p></p>
