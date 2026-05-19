@@ -19,10 +19,8 @@ Data Extraction: Creating a bridge between physical experiments with digital mod
 <p></p>
 
 ### Installation
-You will need a Python environment (3.7+) and the following libraries:
 
-NumPy: For numerical arrays and trigonometry.
-
-SciPy: Specifically for the ODE solver.
-
-Matplotlib: For generating trajectory plots.
+1. Clone this repository.
+2. Ensure `IMG_3819.MP4` sits in the root folder.
+3. Run `pip install numpy scipy matplotlib opencv-python`.
+4. Execute `Final.ipynb`.
